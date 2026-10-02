@@ -1,0 +1,14 @@
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\bin\Debug\net10.0\server.exe
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\bin\Debug\net10.0\server.deps.json
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\bin\Debug\net10.0\server.dll
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\bin\Debug\net10.0\server.pdb
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\obj\Debug\net10.0\server.dll
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\obj\Debug\net10.0\refint\server.dll
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\obj\Debug\net10.0\server.pdb
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Dev\Projects\INSTRUMENTAL\Lab4_Okishev\server\obj\Debug\net10.0\ref\server.dll
